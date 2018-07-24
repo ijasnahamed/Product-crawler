@@ -1,0 +1,22 @@
+{
+  "name": "product-crawler",
+  "version": "1.0.0",
+  "description": "program to crawl product page and get ratings",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijasnahamed/Product-crawler.git"
+  },
+  "author": "ijas ahamed n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ijasnahamed/Product-crawler/issues"
+  },
+  "homepage": "https://github.com/ijasnahamed/Product-crawler#readme",
+  "dependencies": {
+    "crawler": "^1.1.4"
+  }
+}
