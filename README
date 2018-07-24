@@ -3,3 +3,6 @@ This is a test to crawl flipkart product page and get its meta-data
 Currently return ratings and reviews count
 
 To build this project at your side, clone this project and run 'npm install'
+
+To test, update 'url' variable in index.js with your product page url and save the file.
+Later run 'node index' command in cli to test.
