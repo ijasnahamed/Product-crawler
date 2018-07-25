@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ijasnahamed/Product-crawler#readme",
   "dependencies": {
-    "crawler": "^1.1.4"
+    "crawler": "^1.1.4",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
   }
 }
