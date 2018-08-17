@@ -1,6 +1,4 @@
-This is a test to crawl flipkart product page and get its meta-data
-
-Currently return ratings and reviews count
+# App to get photos and videos from Instagram Hashtags by giving url of a Flipkart product page
 
 To build this project at your side, clone this project and run 'npm install'
 
